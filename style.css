@@ -32,7 +32,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.filling-field-wrapper {
+.fill-field-wrapper {
   display: flex;
 }
 ul {
