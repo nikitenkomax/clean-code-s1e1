@@ -42,10 +42,10 @@ ul {
   padding: 0px;
 }
 .edit {
-  list-style:none;
+  list-style: none;
 }
 .input, .btn{
-  outline:none;
+  outline: none;
 }
 .btn {
   background: none;
@@ -144,14 +144,14 @@ ul {
 
 /* Edit Task */
 .edit .input-field {
-  display:none
+  display: none
 }
 
 .edit-mode .input-field {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode > .input-check + .task {
-  display:none;
+  display: none;
 }
